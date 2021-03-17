@@ -1,0 +1,11 @@
+# Compiled stuff
+*.out
+*.elf
+*.hex
+# Doxygen stuff
+*doxygen_out
+# KiCAD Generated stuff
+/**/*-backups
+/**/Gerber
+# General .bak files
+*.bak
