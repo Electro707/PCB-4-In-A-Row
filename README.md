@@ -7,7 +7,7 @@ Latest Rev:
 ![Latest Rev](.images/20210311_013805.jpg)
 
 Latest Rev with Panel:
-![Panel Picture](Panel202103181251.png)
+![Panel Picture](.images/Panel202103181251.png)
 
 ## Authors
 
