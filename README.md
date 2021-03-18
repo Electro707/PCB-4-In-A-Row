@@ -6,6 +6,9 @@ This a PCB is a soldering kit for a 4-In-A-Row game. A simple game consisting of
 Latest Rev:
 ![Latest Rev](.images/20210311_013805.jpg)
 
+Latest Rev with Panel:
+![Panel Picture](Panel202103181251.png)
+
 ## Authors
 
 * **Jamal Bouajjaj** 
