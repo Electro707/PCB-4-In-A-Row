@@ -105,7 +105,7 @@
         "allow_microvias": false,
         "max_error": 0.005,
         "min_clearance": 0.0,
-        "min_copper_edge_clearance": 0.024999999999999998,
+        "min_copper_edge_clearance": 0.39999999999999997,
         "min_hole_clearance": 0.0,
         "min_hole_to_hole": 0.254,
         "min_microvia_diameter": 0.19999999999999998,
@@ -435,7 +435,7 @@
   },
   "sheets": [
     [
-      "3fdc2de4-07f4-41ee-aaa7-97f4af74bd4c",
+      "5c2f8442-5882-4a13-b00d-482be4890814",
       ""
     ]
   ],

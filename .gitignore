@@ -6,6 +6,7 @@
 *doxygen_out
 # KiCAD Generated stuff
 /**/*-backups
-/**/Gerber
+/**/*Gerber
 # General .bak files
 *.bak
+*.nogit
