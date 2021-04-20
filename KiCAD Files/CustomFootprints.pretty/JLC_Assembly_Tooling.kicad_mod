@@ -1,0 +1,13 @@
+(footprint "JLC_Assembly_Tooling" (version 20210228) (generator pcbnew) (layer "F.Cu")
+  (tedit 606B85C6)
+  (fp_text reference "REF**" (at -1 0.5 unlocked) (layer "F.SilkS") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 6e9e18e3-0d66-4e3f-ac92-c3e44927191c)
+  )
+  (fp_text value "JLC_Assembly_Tooling" (at 0 1 unlocked) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 982357f3-3ce3-4882-80aa-50c24021a89e)
+  )
+  (pad "" np_thru_hole circle (at 0 0) (size 1.152 1.152) (drill 1.152) (layers F&B.Cu *.Mask)
+    (solder_mask_margin 0.148) (tstamp 4d249390-cf3d-4047-8064-2949389061c2))
+)

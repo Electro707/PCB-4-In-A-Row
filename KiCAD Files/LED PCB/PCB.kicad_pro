@@ -405,7 +405,13 @@
       "version": 0
     },
     "net_format_name": "",
-    "page_layout_descr_file": "",
+    "ngspice": {
+      "meta": {
+        "version": 0
+      },
+      "model_mode": 0
+    },
+    "page_layout_descr_file": "../ShematicLayout.kicad_wks",
     "plot_directory": "",
     "spice_adjust_passive_values": false,
     "spice_external_command": "spice \"%I\"",
@@ -414,7 +420,7 @@
   },
   "sheets": [
     [
-      "8fdaafc1-b78c-4668-ad37-b78a4497f2c8",
+      "4555f59b-df15-426f-854c-decbde8c66c8",
       ""
     ]
   ],
