@@ -4,11 +4,11 @@
    inkscape:export-xdpi="174.58824"
    inkscape:export-filename="/home/electro/bitmap.png"
    sodipodi:docname="LED_Instructions.svg"
-   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
    id="svg8"
    version="1.1"
-   viewBox="0 0 215.9 279.4"
-   height="11in"
+   viewBox="0 0 215.9 114.3"
+   height="4.5in"
    width="8.5in"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -58,9 +58,9 @@
      inkscape:document-rotation="0"
      inkscape:current-layer="layer5"
      inkscape:document-units="mm"
-     inkscape:cy="504.52064"
-     inkscape:cx="531.03714"
-     inkscape:zoom="1.4142137"
+     inkscape:cy="208.24998"
+     inkscape:cx="445.99996"
+     inkscape:zoom="2.0000002"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -74,7 +74,8 @@
      guidetolerance="10.0"
      inkscape:pagecheckerboard="0"
      inkscape:snap-text-baseline="true"
-     showguides="false">
+     showguides="false"
+     width="7.5in">
     <inkscape:grid
        originy="215.9"
        originx="0"
@@ -164,12 +165,12 @@
        xml:space="preserve"
        style="font-size:7.05556px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;stroke-width:0.329519"
        x="3.175"
-       y="44.450001"
+       y="57.150002"
        id="text8536-3"><tspan
          sodipodi:role="line"
          id="tspan8534-6"
          x="3.175"
-         y="44.450001"
+         y="57.150002"
          style="font-style:italic;font-variant:normal;font-weight:200;font-stretch:normal;font-size:7.05556px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Ultra-Light Italic';stroke-width:0.329519">Designed by Electro707</tspan></text>
     <text
        xml:space="preserve"
@@ -198,19 +199,24 @@
        transform="translate(-7.8125e-4,-4.1630798)"><tspan
          x="3.175"
          y="13.68808"
-         id="tspan16858"><tspan
+         id="tspan3026"><tspan
            style="font-weight:500;-inkscape-font-specification:'Noto Sans Medium'"
-           id="tspan16856">4-In-A-Row </tspan></tspan><tspan
+           id="tspan3024">4-In-A-Row </tspan></tspan><tspan
          x="3.175"
          y="26.917203"
-         id="tspan16862"><tspan
+         id="tspan3030"><tspan
            style="font-weight:500;-inkscape-font-specification:'Noto Sans Medium'"
-           id="tspan16860">Soldering Kit LED </tspan></tspan><tspan
+           id="tspan3028">Soldering Kit LED </tspan></tspan><tspan
          x="3.175"
          y="40.146327"
-         id="tspan16866"><tspan
+         id="tspan3034"><tspan
            style="font-weight:500;-inkscape-font-specification:'Noto Sans Medium'"
-           id="tspan16864">Board</tspan></tspan></text>
+           id="tspan3032">Board, BOM and </tspan></tspan><tspan
+         x="3.175"
+         y="53.375453"
+         id="tspan3038"><tspan
+           style="font-weight:500;-inkscape-font-specification:'Noto Sans Medium'"
+           id="tspan3036">Notes</tspan></tspan></text>
   </g>
   <g
      inkscape:label="CompTable"
@@ -255,7 +261,7 @@
            id="tspan51990"
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Light';text-align:center;text-anchor:middle;stroke-width:0.499999;stroke-miterlimit:4;stroke-dasharray:none">D1-</tspan></tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Light';text-align:center;text-anchor:middle;stroke-width:0.499999;stroke-miterlimit:4;stroke-dasharray:none"
-         y="63.898701"
+         y="63.703823"
          x="123.68917"
          sodipodi:role="line"
          id="tspan8924"><tspan
@@ -326,7 +332,7 @@
          id="tspan5982"
          x="111.125"
          y="25.4"
-         style="font-style:italic;font-variant:normal;font-weight:100;font-stretch:normal;font-size:7.05556px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Thin Italic';stroke-width:0.264583">Parts:</tspan></text>
+         style="font-style:italic;font-variant:normal;font-weight:100;font-stretch:normal;font-size:7.05556px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Thin Italic';stroke-width:0.264583">Parts</tspan></text>
     <g
        style="display:inline"
        inkscape:label="Layer 1"
@@ -394,7 +400,7 @@
    id="tspan51990-6"
    style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Light';text-align:center;text-anchor:middle;stroke-width:0.499999;stroke-miterlimit:4;stroke-dasharray:none" /></tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Light';text-align:center;text-anchor:middle;stroke-width:0.499999;stroke-miterlimit:4;stroke-dasharray:none"
-         y="82.948708"
+         y="82.75383"
          x="124.62438"
          sodipodi:role="line"
          id="tspan7404">SW8</tspan></text>
@@ -435,7 +441,7 @@
          x="124.23633"
          sodipodi:role="line">J1 &amp;</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Light';text-align:center;text-anchor:middle;stroke-width:0.499999;stroke-miterlimit:4;stroke-dasharray:none"
-         y="101.33513"
+         y="101.14025"
          x="124.23633"
          sodipodi:role="line"
          id="tspan71231">J2</tspan></text>
@@ -550,13 +556,13 @@
        transform="translate(119.32852,-129.34964)"><tspan
          x="109.27063"
          y="145.22464"
-         id="tspan16868">Resistor </tspan><tspan
+         id="tspan3040">Resistor </tspan><tspan
          x="109.27063"
-         y="154.92603"
-         id="tspan16870">Color </tspan><tspan
+         y="154.92602"
+         id="tspan3042">Color </tspan><tspan
          x="109.27063"
          y="164.62741"
-         id="tspan16872">Code</tspan></text>
+         id="tspan3044">Code</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:7.76111px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:38.3669;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -566,7 +572,7 @@
        transform="translate(155.30067,-123.0048)"><tspan
          x="109.27063"
          y="145.22464"
-         id="tspan16874">IC color</tspan></text>
+         id="tspan3046">IC color</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:7.76111px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:38.3669;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -576,10 +582,7 @@
        transform="translate(155.22365,-113.47704)"><tspan
          x="109.27063"
          y="145.22464"
-         id="tspan16876">Lead </tspan><tspan
-         x="109.27063"
-         y="154.92603"
-         id="tspan16878">color</tspan></text>
+         id="tspan3048">Lead color</tspan></text>
     <rect
        y="-318.83633"
        x="18.40889"

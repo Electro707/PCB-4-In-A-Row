@@ -2699,7 +2699,7 @@
   (footprint "Logo:new_707_logo_6x6.6" locked (layer "B.Cu")
     (tedit 0) (tstamp 00000000-0000-0000-0000-00005ef842cf)
     (at 245.237 53.34 90)
-    (attr through_hole)
+    (attr board_only exclude_from_bom)
     (fp_text reference "G***" (at 0 0 270) (layer "B.SilkS") hide
       (effects (font (size 1.524 1.524) (thickness 0.3)) (justify mirror))
       (tstamp 9b57b869-cb0e-4648-ac07-f937045d24f8)
