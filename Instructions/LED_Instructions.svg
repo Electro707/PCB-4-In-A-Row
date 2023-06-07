@@ -4,12 +4,12 @@
    inkscape:export-xdpi="174.58824"
    inkscape:export-filename="/home/electro/bitmap.png"
    sodipodi:docname="LED_Instructions.svg"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    id="svg8"
    version="1.1"
-   viewBox="0 0 215.9 114.3"
-   height="4.5in"
-   width="8.5in"
+   viewBox="0 0 107.95 133.35"
+   height="5.25in"
+   width="4.25in"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -58,8 +58,8 @@
      inkscape:document-rotation="0"
      inkscape:current-layer="layer5"
      inkscape:document-units="mm"
-     inkscape:cy="208.24998"
-     inkscape:cx="445.99996"
+     inkscape:cy="192.74998"
+     inkscape:cx="174.74998"
      inkscape:zoom="2.0000002"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -75,7 +75,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:snap-text-baseline="true"
      showguides="false"
-     width="7.5in">
+     width="7.5in"
+     inkscape:showpageshadow="0"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        originy="215.9"
        originx="0"
@@ -165,12 +167,12 @@
        xml:space="preserve"
        style="font-size:7.05556px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;stroke-width:0.329519"
        x="3.175"
-       y="57.150002"
+       y="44.450001"
        id="text8536-3"><tspan
          sodipodi:role="line"
          id="tspan8534-6"
          x="3.175"
-         y="57.150002"
+         y="44.450001"
          style="font-style:italic;font-variant:normal;font-weight:200;font-stretch:normal;font-size:7.05556px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Ultra-Light Italic';stroke-width:0.329519">Designed by Electro707</tspan></text>
     <text
        xml:space="preserve"
@@ -194,29 +196,24 @@
        id="text8536"
        y="13.68808"
        x="3.175"
-       style="font-size:10.5833px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;white-space:pre;inline-size:101.601;stroke-width:0.370525"
+       style="font-size:10.5833px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;white-space:pre;inline-size:82.5508;stroke-width:0.370525"
        xml:space="preserve"
        transform="translate(-7.8125e-4,-4.1630798)"><tspan
          x="3.175"
          y="13.68808"
-         id="tspan3026"><tspan
+         id="tspan681"><tspan
            style="font-weight:500;-inkscape-font-specification:'Noto Sans Medium'"
-           id="tspan3024">4-In-A-Row </tspan></tspan><tspan
+           id="tspan679">4-In-A-Row </tspan></tspan><tspan
          x="3.175"
          y="26.917203"
-         id="tspan3030"><tspan
+         id="tspan685"><tspan
            style="font-weight:500;-inkscape-font-specification:'Noto Sans Medium'"
-           id="tspan3028">Soldering Kit LED </tspan></tspan><tspan
+           id="tspan683">Soldering Kit </tspan></tspan><tspan
          x="3.175"
          y="40.146327"
-         id="tspan3034"><tspan
+         id="tspan689"><tspan
            style="font-weight:500;-inkscape-font-specification:'Noto Sans Medium'"
-           id="tspan3032">Board, BOM and </tspan></tspan><tspan
-         x="3.175"
-         y="53.375453"
-         id="tspan3038"><tspan
-           style="font-weight:500;-inkscape-font-specification:'Noto Sans Medium'"
-           id="tspan3036">Notes</tspan></tspan></text>
+           id="tspan687">LED Board BOM</tspan></tspan></text>
   </g>
   <g
      inkscape:label="CompTable"
@@ -226,43 +223,43 @@
     <text
        xml:space="preserve"
        style="font-size:7.76111px;line-height:1.25;font-family:Quicksand;-inkscape-font-specification:Quicksand;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
-       x="138.11249"
-       y="57.150009"
+       x="30.162487"
+       y="82.550011"
        id="text12802-4-9-7-1-4-7"><tspan
          id="tspan12837-0-7-1-2-7"
          sodipodi:role="line"
-         x="138.11249"
-         y="57.150009"
+         x="30.162487"
+         y="82.550011"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Light';text-align:start;text-anchor:start;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none">5mm LED</tspan></text>
     <text
        id="text12918-7-4-9-7-8"
-       y="63.5"
-       x="138.11249"
+       y="88.900002"
+       x="30.162487"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Light';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93889px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Light';text-align:start;text-anchor:start;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
-         y="63.5"
-         x="138.11249"
+         y="88.900002"
+         x="30.162487"
          id="tspan12916-2-1-1-1-5"
          sodipodi:role="line">RGB Common Cathode</tspan></text>
     <text
        id="text12802-4-3-3-7-2-0-3"
-       y="55.942722"
-       x="123.68917"
+       y="81.342728"
+       x="15.739171"
        style="font-size:7.7611px;line-height:1;font-family:Quicksand;-inkscape-font-specification:Quicksand;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;stroke-width:0.499999;stroke-miterlimit:4;stroke-dasharray:none"
        xml:space="preserve"><tspan
          id="tspan15058"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Light';text-align:center;text-anchor:middle;stroke-width:0.499999;stroke-miterlimit:4;stroke-dasharray:none"
-         y="55.942722"
-         x="123.68917"
+         y="81.342728"
+         x="15.739171"
          sodipodi:role="line"><tspan
            dx="0"
            dy="0"
            id="tspan51990"
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Light';text-align:center;text-anchor:middle;stroke-width:0.499999;stroke-miterlimit:4;stroke-dasharray:none">D1-</tspan></tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Light';text-align:center;text-anchor:middle;stroke-width:0.499999;stroke-miterlimit:4;stroke-dasharray:none"
-         y="63.703823"
-         x="123.68917"
+         y="89.103828"
+         x="15.739171"
          sodipodi:role="line"
          id="tspan8924"><tspan
            rotate="0 0 0 0"
@@ -273,18 +270,18 @@
        id="rect12721-6-4-4-6-6-0-1"
        width="76.200005"
        height="19.049997"
-       x="136.52499"
-       y="47.625" />
+       x="28.574993"
+       y="73.025002" />
     <rect
-       y="47.625"
-       x="111.125"
+       y="73.025002"
+       x="3.175"
        height="19.049997"
        width="25.399988"
        id="rect12721-6-4-8-0-9-5-9-6"
        style="display:inline;fill:none;stroke:#000000;stroke-width:0.499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <rect
-       y="28.575001"
-       x="111.125"
+       y="53.974998"
+       x="3.175"
        height="19.049997"
        width="101.6"
        id="rect12721-6-4-86"
@@ -292,7 +289,7 @@
     <g
        style="display:inline"
        id="g13520"
-       transform="translate(-63.398561,-34.924999)">
+       transform="translate(-171.34856,-9.5249992)">
       <text
          xml:space="preserve"
          style="font-size:8.81944px;line-height:1.25;font-family:Quicksand;-inkscape-font-specification:Quicksand;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
@@ -318,26 +315,15 @@
     </g>
     <path
        style="display:inline;fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 136.52496,47.625 19.05,-3.174999 v -12.7 l 19.05,-3.175"
+       d="M 28.57496,73.024999 47.62496,69.85 v -12.7 l 19.05,-3.175"
        id="path13524"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc" />
-    <text
-       xml:space="preserve"
-       style="font-size:7.05556px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.264583"
-       x="111.125"
-       y="25.4"
-       id="text5984"><tspan
-         sodipodi:role="line"
-         id="tspan5982"
-         x="111.125"
-         y="25.4"
-         style="font-style:italic;font-variant:normal;font-weight:100;font-stretch:normal;font-size:7.05556px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Thin Italic';stroke-width:0.264583">Parts</tspan></text>
     <g
        style="display:inline"
        inkscape:label="Layer 1"
        id="layer1-3"
-       transform="matrix(0.48105744,0,0,0.48105744,217.53558,-10.054124)">
+       transform="matrix(0.48105744,0,0,0.48105744,109.58558,-10.054124)">
       <g
          id="g1079"
          transform="translate(-3e-6,-56)">
@@ -354,54 +340,54 @@
     </g>
     <text
        id="text12918-7-4-9-9-7-7"
-       y="101.6"
-       x="139.70001"
+       y="127"
+       x="31.750011"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.9389px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Light';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;stroke-width:0.499999;stroke-miterlimit:4;stroke-dasharray:none"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Light';text-align:start;text-anchor:start;stroke-width:0.499999;stroke-miterlimit:4;stroke-dasharray:none"
-         y="101.6"
-         x="139.70001"
+         y="127"
+         x="31.750011"
          id="tspan12916-2-1-1-2-8-4"
          sodipodi:role="line">0.1&quot; Pitch</tspan></text>
     <text
        id="text12918-7-4-9-9-7-7-8"
-       y="82.550003"
-       x="139.7"
+       y="107.95"
+       x="31.749996"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.9389px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Light';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;stroke-width:0.499999;stroke-miterlimit:4;stroke-dasharray:none"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Light';text-align:start;text-anchor:start;stroke-width:0.499999;stroke-miterlimit:4;stroke-dasharray:none"
-         y="82.550003"
-         x="139.7"
+         y="107.95"
+         x="31.749996"
          id="tspan12916-2-1-1-2-8-4-1"
          sodipodi:role="line">6x6 mm</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.76111px;line-height:1.25;font-family:Quicksand;-inkscape-font-specification:Quicksand;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
-       x="138.11247"
-       y="76.200012"
+       x="30.162472"
+       y="101.60001"
        id="text12802-4-9-7-1-4-7-3"><tspan
          id="tspan12837-0-7-1-2-7-61"
          sodipodi:role="line"
-         x="138.11247"
-         y="76.200012"
+         x="30.162472"
+         y="101.60001"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Light';text-align:start;text-anchor:start;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none">Tactile Switch</tspan></text>
     <text
        id="text12802-4-3-3-7-2-0-3-3"
-       y="74.992729"
-       x="124.62438"
+       y="100.39274"
+       x="16.674381"
        style="font-size:7.7611px;line-height:1;font-family:Quicksand;-inkscape-font-specification:Quicksand;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;stroke-width:0.499999;stroke-miterlimit:4;stroke-dasharray:none"
        xml:space="preserve"><tspan
          id="tspan15058-20"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Light';text-align:center;text-anchor:middle;stroke-width:0.499999;stroke-miterlimit:4;stroke-dasharray:none"
-         y="74.992729"
-         x="124.62438"
+         y="100.39274"
+         x="16.674381"
          sodipodi:role="line">SW1 - <tspan
    rotate="0"
    id="tspan51990-6"
    style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Light';text-align:center;text-anchor:middle;stroke-width:0.499999;stroke-miterlimit:4;stroke-dasharray:none" /></tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Light';text-align:center;text-anchor:middle;stroke-width:0.499999;stroke-miterlimit:4;stroke-dasharray:none"
-         y="82.75383"
-         x="124.62438"
+         y="108.15384"
+         x="16.674381"
          sodipodi:role="line"
          id="tspan7404">SW8</tspan></text>
     <rect
@@ -409,11 +395,11 @@
        id="rect12721-6-4-4-6-6-0-1-15"
        width="76.200005"
        height="19.049997"
-       x="136.52498"
-       y="66.675003" />
+       x="28.574978"
+       y="92.075005" />
     <rect
-       y="66.675003"
-       x="111.125"
+       y="92.075005"
+       x="3.175"
        height="19.049997"
        width="25.399988"
        id="rect12721-6-4-8-0-9-5-9-6-5"
@@ -421,28 +407,28 @@
     <text
        xml:space="preserve"
        style="font-size:7.76111px;line-height:1.25;font-family:Quicksand;-inkscape-font-specification:Quicksand;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
-       x="138.11249"
-       y="95.250023"
+       x="30.162487"
+       y="120.65002"
        id="text12802-4-9-7-1-4-7-3-4"><tspan
          id="tspan12837-0-7-1-2-7-61-7"
          sodipodi:role="line"
-         x="138.11249"
-         y="95.250023"
+         x="30.162487"
+         y="120.65002"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Light';text-align:start;text-anchor:start;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none">18 Pin Header</tspan></text>
     <text
        id="text12802-4-3-3-7-2-0-3-3-6"
-       y="93.37915"
-       x="124.23633"
+       y="118.77915"
+       x="16.286327"
        style="font-size:7.7611px;line-height:1;font-family:Quicksand;-inkscape-font-specification:Quicksand;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;stroke-width:0.499999;stroke-miterlimit:4;stroke-dasharray:none"
        xml:space="preserve"><tspan
          id="tspan15058-20-5"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Light';text-align:center;text-anchor:middle;stroke-width:0.499999;stroke-miterlimit:4;stroke-dasharray:none"
-         y="93.37915"
-         x="124.23633"
+         y="118.77915"
+         x="16.286327"
          sodipodi:role="line">J1 &amp;</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Light';text-align:center;text-anchor:middle;stroke-width:0.499999;stroke-miterlimit:4;stroke-dasharray:none"
-         y="101.14025"
-         x="124.23633"
+         y="126.54025"
+         x="16.286327"
          sodipodi:role="line"
          id="tspan71231">J2</tspan></text>
     <rect
@@ -450,11 +436,11 @@
        id="rect12721-6-4-4-6-6-0-1-15-9"
        width="76.200005"
        height="19.049997"
-       x="136.52499"
-       y="85.724998" />
+       x="28.574993"
+       y="111.125" />
     <rect
-       y="85.724998"
-       x="111.125"
+       y="111.125"
+       x="3.175"
        height="19.049997"
        width="25.399988"
        id="rect12721-6-4-8-0-9-5-9-6-5-3"
@@ -556,13 +542,13 @@
        transform="translate(119.32852,-129.34964)"><tspan
          x="109.27063"
          y="145.22464"
-         id="tspan3040">Resistor </tspan><tspan
+         id="tspan691">Resistor </tspan><tspan
          x="109.27063"
          y="154.92602"
-         id="tspan3042">Color </tspan><tspan
+         id="tspan693">Color </tspan><tspan
          x="109.27063"
          y="164.62741"
-         id="tspan3044">Code</tspan></text>
+         id="tspan695">Code</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:7.76111px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:38.3669;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -572,7 +558,7 @@
        transform="translate(155.30067,-123.0048)"><tspan
          x="109.27063"
          y="145.22464"
-         id="tspan3046">IC color</tspan></text>
+         id="tspan697">IC color</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:7.76111px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:38.3669;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -582,7 +568,7 @@
        transform="translate(155.22365,-113.47704)"><tspan
          x="109.27063"
          y="145.22464"
-         id="tspan3048">Lead color</tspan></text>
+         id="tspan699">Lead color</tspan></text>
     <rect
        y="-318.83633"
        x="18.40889"
@@ -603,7 +589,7 @@
        ry="0" />
     <g
        id="g86031"
-       transform="matrix(1.2972973,0,0,1.2972973,-280.60134,-222.24997)">
+       transform="matrix(1.2972973,0,0,1.2972973,-388.55134,-196.84997)">
       <path
          style="display:inline;fill:#a2a2a2;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 366.7125,225.29268 v 9.525 h 9.525 v -9.525 z"
@@ -634,7 +620,7 @@
     </g>
     <g
        id="g1207"
-       transform="translate(-149.22501,-104.6438)">
+       transform="translate(-257.17501,-79.243801)">
       <path
          style="display:inline;fill:#d6f0ff;fill-opacity:1;stroke:#000000;stroke-width:0.500001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 349.93357,165.89375 v -0.99322 h 0.98238 v -6.95255 c 0,0 0,-3.97289 3.92952,-3.97289 3.92953,0 3.92953,3.97289 3.92953,3.97289 v 7.94577 z"
@@ -668,7 +654,7 @@
     </g>
     <g
        id="g11811"
-       transform="translate(-99.218732,-130.57187)">
+       transform="translate(-207.16873,-105.17187)">
       <path
          style="display:inline;fill:#dcd412;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 296.06875,218.28125 v 7.9375 h 1.5875 v -7.9375 z"
