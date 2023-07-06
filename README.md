@@ -9,13 +9,17 @@ Latest Rev:
 Latest Rev with Panel:
 ![Panel Picture](.images/Panel202103181251.png)
 
+## Kits Page
+
+The dedicated webpage for this can be found at [https://kits.electro707.com/4_in_a_row/](https://kits.electro707.com/4_in_a_row/)
+
 ## Authors
 
 * **Jamal Bouajjaj** 
 
 ## License
 
-See the [LICENSE.md](LICENSE.md) file for details
+See the [LICENSE.md](LICENSE.md) file for details.
 
 ## Changelog 
 
