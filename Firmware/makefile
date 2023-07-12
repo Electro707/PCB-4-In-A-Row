@@ -1,5 +1,5 @@
 PORT=/dev/ttyUSB0
-MCU=atmega328
+MCU=atmega328p
 TARGET=main
 
 LDFLAGS=-Wl,-gc-sections -Wl,-relax -Wl,-Map=$(TARGET).map,--cref
@@ -23,5 +23,5 @@ program:
 clean:
 	rm -rf *.hex *.bin *.o *.elf doxygen_out/
 
-documentation:
+docs:
 	doxygen doxygen_config
