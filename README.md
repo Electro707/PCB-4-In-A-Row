@@ -12,6 +12,9 @@ With Panel (not actually updated, just made it once):
 ## Kits Page
 The dedicated webpage for this can be found at [https://kits.electro707.com/4_in_a_row/](https://kits.electro707.com/4_in_a_row/)
 
+### Kit on Tindie
+I am currently selling the kit on Tindie. The product page can be found at [https://www.tindie.com/products/28121/](https://www.tindie.com/products/28121/).
+
 ## Firmware
 The firmware can be found in the [Firmware](Firmware) folder. To build and upload the program, see [Firware.md](Firmware.md) for more details.
 
