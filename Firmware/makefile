@@ -1,5 +1,5 @@
 PORT=/dev/ttyUSB0
-MCU=atmega328p
+MCU=atmega328
 TARGET=main
 
 LDFLAGS=-Wl,-gc-sections -Wl,-relax -Wl,-Map=$(TARGET).map,--cref
