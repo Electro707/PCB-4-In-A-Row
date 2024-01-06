@@ -1,0 +1,21 @@
+<!-- Minimalist template just to copy and paste to the actual instruction page
+
+This is to get around limitations around handlebar and pcbdraw, for example for multiple boards.
+-->
+{{#each items}}
+    {{#if this.is_comment}}
+        <div class="content_md">
+            {{{this.content}}}
+        </div>
+    {{/if}}
+    {{#if this.is_step}}
+        <div id="step_step">
+        {{#each this.steps}}
+            <figure class="figure">
+                <img src="{{this.img}}" class="figure-img img-fluid rounded">
+                <figcaption class="figure-caption">{{{this.comment}}}</figcaption>
+            </figure>
+        {{/each}}
+        </div>
+    {{/if}}
+{{/each}}
