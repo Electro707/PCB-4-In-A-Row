@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   inkscape:export-ydpi="174.58824"
-   inkscape:export-xdpi="174.58824"
-   inkscape:export-filename="/home/electro/solderingkit1.png"
+   inkscape:export-ydpi="300"
+   inkscape:export-xdpi="300"
+   inkscape:export-filename="../../../../../../solderingkit1.png"
    sodipodi:docname="Soldering Instructions.svg"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
    id="svg8"
    version="1.1"
    viewBox="0 0 215.9 279.4"
@@ -18364,11 +18364,11 @@
      units="in"
      showgrid="true"
      inkscape:document-rotation="0"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer5"
      inkscape:document-units="mm"
-     inkscape:cy="458.74995"
-     inkscape:cx="294.24997"
-     inkscape:zoom="2.0000002"
+     inkscape:cy="760.84682"
+     inkscape:cx="468.10464"
+     inkscape:zoom="1.4142137"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -18427,7 +18427,8 @@
        spacingx="0.79375"
        spacingy="0.79375"
        enabled="false"
-       empspacing="0" />
+       empspacing="0"
+       visible="true" />
     <inkscape:grid
        type="xygrid"
        id="grid78843"
@@ -18435,7 +18436,10 @@
        spacingx="2.54"
        spacingy="2.54"
        empspacing="1"
-       enabled="false" />
+       enabled="false"
+       originx="0"
+       originy="0"
+       visible="true" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -18497,24 +18501,24 @@
        transform="translate(-7.8125108e-4,-4.1630798)"><tspan
          x="3.175"
          y="13.68808"
-         id="tspan21711"><tspan
+         id="tspan2"><tspan
            style="font-weight:500;-inkscape-font-specification:'Noto Sans Medium'"
-           id="tspan21709">4-In-A-Row </tspan></tspan><tspan
+           id="tspan1">4-In-A-Row </tspan></tspan><tspan
          x="3.175"
          y="26.917203"
-         id="tspan21715"><tspan
+         id="tspan4"><tspan
            style="font-weight:500;-inkscape-font-specification:'Noto Sans Medium'"
-           id="tspan21713">Soldering Kit Main </tspan></tspan><tspan
+           id="tspan3">Soldering Kit Main </tspan></tspan><tspan
          x="3.175"
          y="40.146327"
-         id="tspan21719"><tspan
+         id="tspan6"><tspan
            style="font-weight:500;-inkscape-font-specification:'Noto Sans Medium'"
-           id="tspan21717">Board, BOM and </tspan></tspan><tspan
+           id="tspan5">Board, BOM and </tspan></tspan><tspan
          x="3.175"
          y="53.375453"
-         id="tspan21723"><tspan
+         id="tspan8"><tspan
            style="font-weight:500;-inkscape-font-specification:'Noto Sans Medium'"
-           id="tspan21721">Notes</tspan></tspan></text>
+           id="tspan7">Notes</tspan></tspan></text>
     <text
        transform="matrix(0.43415302,0,0,0.43415302,-31.818412,-39.642196)"
        xml:space="preserve"
@@ -18524,19 +18528,19 @@
        id="text18731-4-7-2"><tspan
          x="80.600922"
          y="266.82343"
-         id="tspan21725">If you have received a PCB with SMD components </tspan><tspan
+         id="tspan9">If you have received a PCB with SMD components </tspan><tspan
          x="80.600922"
          y="279.01189"
-         id="tspan21727">pre-soldered (check near the USB connectors), then </tspan><tspan
+         id="tspan10">pre-soldered (check near the USB connectors), then </tspan><tspan
          x="80.600922"
          y="291.20037"
-         id="tspan21729">you don't have to worry about soldering the SMD </tspan><tspan
+         id="tspan11">you don't have to worry about soldering the SMD </tspan><tspan
          x="80.600922"
          y="303.38885"
-         id="tspan21731">parts. Otherwise, the minimum parts to get the board </tspan><tspan
+         id="tspan12">parts. Otherwise, the minimum parts to get the board </tspan><tspan
          x="80.600922"
          y="315.57732"
-         id="tspan21733">functioning are F1 and L1.</tspan></text>
+         id="tspan13">functioning are F1 and L1.</tspan></text>
     <text
        transform="matrix(0.43415302,0,0,0.43415302,-31.818412,-1.5421959)"
        xml:space="preserve"
@@ -18546,19 +18550,19 @@
        id="text18731-4-7-2-6"><tspan
          x="80.600922"
          y="266.82343"
-         id="tspan21735">This kit can be powered from either the included USB-</tspan><tspan
+         id="tspan14">This kit can be powered from either the included USB-</tspan><tspan
          x="80.600922"
          y="279.01189"
-         id="tspan21737">B connector (which is also used to update the </tspan><tspan
+         id="tspan15">B connector (which is also used to update the </tspan><tspan
          x="80.600922"
          y="291.20037"
-         id="tspan21739">firmware), a 5v external supply or a 7-15v external </tspan><tspan
+         id="tspan16">firmware), a 5v external supply or a 7-15v external </tspan><tspan
          x="80.600922"
          y="303.38885"
-         id="tspan21741">supply. For a 5v external supply, use J3. For a 7-15v </tspan><tspan
+         id="tspan17">supply. For a 5v external supply, use J3. For a 7-15v </tspan><tspan
          x="80.600922"
          y="315.57732"
-         id="tspan21743">external supply, use J1. </tspan></text>
+         id="tspan18">external supply, use J1. </tspan></text>
     <text
        id="text18731-7-2-6"
        y="107.95"
@@ -18578,19 +18582,19 @@
      style="display:inline">
     <text
        xml:space="preserve"
-       style="font-weight:500;font-size:4.23333px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Medium';white-space:pre;inline-size:90.4875;stroke-width:0.264583"
+       style="font-weight:500;font-size:4.23333px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Medium';white-space:pre;inline-size:90.4875;display:inline;stroke-width:0.264583"
        x="3.175"
        y="98.424995"
        id="text6740" />
     <text
        xml:space="preserve"
-       style="font-weight:500;font-size:4.23333px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Medium';white-space:pre;inline-size:92.075;stroke-width:0.264583"
+       style="font-weight:500;font-size:4.23333px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Medium';white-space:pre;inline-size:92.075;display:inline;stroke-width:0.264583"
        x="3.175"
        y="66.674995"
        id="text39106" />
     <text
        xml:space="preserve"
-       style="font-weight:500;font-size:10.5833px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Medium';white-space:pre;inline-size:95.25;stroke-width:0.264583"
+       style="font-weight:500;font-size:10.5833px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Medium';white-space:pre;inline-size:95.25;display:inline;stroke-width:0.264583"
        x="3.175"
        y="9.5249996"
        id="text52288" />
@@ -41935,7 +41939,7 @@
          sodipodi:role="line"
          x="138.1125"
          y="266.70001"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Light';text-align:start;text-anchor:start;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none">7805</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Light';text-align:start;text-anchor:start;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none">LD1117-5.0</tspan></text>
     <text
        id="text12918-7-4-9-7-8-9-2"
        y="273.05002"
@@ -43702,13 +43706,13 @@
        transform="translate(119.32852,-129.34964)"><tspan
          x="109.27063"
          y="145.22464"
-         id="tspan21745">Resistor </tspan><tspan
+         id="tspan19">Resistor </tspan><tspan
          x="109.27063"
          y="154.92602"
-         id="tspan21747">Color </tspan><tspan
+         id="tspan20">Color </tspan><tspan
          x="109.27063"
          y="164.62741"
-         id="tspan21749">Code</tspan></text>
+         id="tspan21">Code</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:7.76111px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:38.3669;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -43718,7 +43722,7 @@
        transform="translate(155.30067,-123.0048)"><tspan
          x="109.27063"
          y="145.22464"
-         id="tspan21751">IC color</tspan></text>
+         id="tspan22">IC color</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:7.76111px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:38.3669;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -43728,7 +43732,7 @@
        transform="translate(155.22365,-113.47704)"><tspan
          x="109.27063"
          y="145.22464"
-         id="tspan21753">Lead color</tspan></text>
+         id="tspan23">Lead color</tspan></text>
     <rect
        y="-318.83633"
        x="18.40889"
